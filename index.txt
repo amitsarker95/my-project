@@ -1,2 +1,3 @@
 "Hello, Git!" 
-"Feature added" 
+"Feature added"
+"One more line to keep track of task 3, which is about merging. I have merged it already, but the commit message is not working."
